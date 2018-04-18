@@ -23,7 +23,7 @@
 
 ### Example
 
-    var sliceCounters = new Dictionary<string, int> {{"A", 3}, {"B", 5}, {"C", 7}};
+    var sliceCounters = new Dictionary<string, int> { {"A", 3}, {"B", 5}, {"C", 7} };
     var slices = sliceCounters.GetSlices();
     Console.WriteLine(string.Join(" ", slices));
 
