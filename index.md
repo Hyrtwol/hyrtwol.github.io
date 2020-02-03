@@ -11,20 +11,25 @@
 * [Cuisine](cuisine/index.md)
 * [Cauldron](cauldron/index.md)
 * [Repertoire](repertoire/index.md)
-* [ClickOnce Applications](clickonce/index.md)
 * [Essentials](essentials.md)
 * [Artwork](artwork.md)
-* [E247](e247/index.md)
 * [Git](git.md)
-* [OS](os/index.md)
-* [Hyrtwol's Application Launcher](hal/index.md)
+* [NewTek LightWave 3D](lightwave/index.md)
+
+### 3D Stuff
+
+* [Advances in Real-Time Rendering- SIGGRAPH 2016](http://advances.realtimerendering.com/s2016/index.html)
+* [Volumetric Fog - Bart Wronski](https://bartwronski.files.wordpress.com/2014/08/bwronski_volumetric_fog_siggraph2014.pdf)
+* [Volumetric Fog II](https://www.evl.uic.edu/sjames/cs525/shader.html)
+* [Proland](https://proland.inrialpes.fr/)
+* [assimp - Importer library to import assets from different common 3D file formats](https://sourceforge.net/projects/assimp/)
 
 ### Game Stuff
 
 * [Wolfenstein](wolfenstein/index.md)
 * [Quake III](wolfenstein/quake3.md)
-* [Minecraft](minecraft/index.md)
 * [GO](http://signalgo.azurewebsites.net/)
+* [2048 the game](http://gabrielecirulli.github.io/2048/)
 
 ### Online Tools
 
@@ -35,26 +40,17 @@
 ### Podcasts
 
 * [Sick and Wrong](http://www.sickandwrongpodcast.com/)
-* [Yogscast](http://www.yogscast.com/)
-* [.NET Rocks!](http://www.dotnetrocks.com/)
+* [The Joe Rogan Experience](https://www.joerogan.com/)
+* [Singularity](https://www.singularityweblog.com/)
+* [Hardcore History](https://www.dancarlin.com/)
 
 ## External
 
 * [NuGet.org](https://www.nuget.org/profiles/Hyrtwol/)
-* [NuGet source](http://nuget.codeplex.com/)
 * [MyGet](https://www.myget.org/feed/Packages/cuisine/)
 * [Bitbucket](https://bitbucket.org/)
 * [GitHub](https://github.com/)
-* [Dropbox](https://www.dropbox.com/) ([Apps](https://www.dropbox.com/developers/apps))
 * [SharpDX](http://sharpdx.org/)
 * [Bootstrap](http://getbootstrap.com/)
 * [SS64 Command line reference – Web, Database and OS scripting.](http://ss64.com/)
 * [Digitally Imported](http://www.di.fm/)
-* [2048 the game](http://gabrielecirulli.github.io/2048/)
-
-## Internal
-
-* [Zino](http://zino/)
-* [TeamCity](http://zino:100/)
-* [Svn](http://zino:90/svn/)
-* [NuGet Feed](http://zino/Nougat/)

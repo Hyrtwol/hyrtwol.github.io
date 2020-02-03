@@ -1,14 +1,8 @@
 # HAL
 
-[![][hal-small]][hal-download]
+[![][hal-small]][hal-clickonce]
 
-## Hyrtwol's Application Launcher
-
-### Installer
-
-[Download hal.exe][hal-download]
-
-[Dropbox download page][hal-dropbox]
+## [Hyrtwol's Application Launcher][hal-clickonce]
 
 ### NuGet Feed
 
@@ -23,7 +17,4 @@ Push:
 	nuget push SamplePackage.1.0.0.nupkg <appi-key> -Source https://www.myget.org/F/apps/api/v2/package
 
 [hal-small]: http://icons.iconarchive.com/icons/zyotism/2001-space-odyssey/128/HAL-9000-icon.png
-[hal-big]: http://upload.wikimedia.org/wikipedia/commons/f/f6/HAL9000.svg
-[hal-dropbox]: https://www.dropbox.com/s/0ry4t7qyb50ju1g/hal.exe?dl=0
-[hal-download]: https://www.dropbox.com/s/0ry4t7qyb50ju1g/hal.exe?dl=1
-[download-button]: http://files.softicons.com/download/toolbar-icons/iconza-red-icons-by-turbomilk/png/24/download.png
+[hal-clickonce]: http://multirotor.ontogenesis.com/clickonce/hal/HAL.application

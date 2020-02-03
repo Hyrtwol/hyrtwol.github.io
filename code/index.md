@@ -12,11 +12,12 @@
 * [T4](t4.md)
 * [P-Code](pcode.md)
 * [Icons](icons.md)
-* [SourceTree](source-tree.md)
 * [RSA encryption in web.config's](rsa.md)
 * [Context Menu Handlers](context-menu-handlers.md)
+* [How to save the princess in 8 programming languages](/images/how-to-save-the-princess-in-8-programming-languages.jpg)
 
 ## Links
+
 * [Computational Geometry Algorithms Library](http://www.cgal.org/)
 * [Regex](http://www.regexplanet.com/)
 * [DB-Engines Ranking](http://db-engines.com/en/ranking)
@@ -34,7 +35,3 @@
 ### DirectX
 
 * [DirectX 9.0c Web Installer](http://www.microsoft.com/en-us/download/details.aspx?id=35)
-
-### Visual Studio
-
-* [Microsoft Visual Studio Express 2013 for Windows Desktop with Update 3](http://www.microsoft.com/en-us/download/details.aspx?id=43733)

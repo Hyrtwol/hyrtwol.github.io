@@ -2,6 +2,9 @@
 
 ## Links
 
+* [Git for Windows](https://gitforwindows.org/)
+* [Fork](https://fork.dev/)
+* [SmartGit](https://www.syntevo.com/smartgit/)
 * [SourceTree](code/source-tree.md)
 * [Git Tutorial][1]
 * [Git Workflows][2]
